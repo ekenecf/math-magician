@@ -1,0 +1,61 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.mainContainer {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20%;
+}
+
+.displayResult {
+  background-color: #858693;
+  width: 100%;
+  height: 80px;
+}
+
+.operationsDiv {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  width: 100%;
+}
+
+.btn {
+  height: 60px;
+  font-size: 20px;
+  background-color: #e0e0e0;
+  border: none;
+  border: 1px solid lightgray;
+}
+
+.btn:active {
+  background-color: rgb(156, 152, 152);
+}
+
+.btn0 {
+  height: 60px;
+  font-size: 20px;
+  background-color: #e0e0e0;
+  border: 1px solid lightgray;
+  grid-column-start: 1;
+  grid-column-end: 3;
+}
+
+.btnop {
+  background-color: #f5913e;
+}
+
+@media screen and (min-width: 768px) {
+  #root {
+    padding-inline: 21%;
+    padding-top: 10%;
+  }
+
+  .mainContainer {
+    margin: 0;
+  }
+}

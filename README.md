@@ -11,7 +11,7 @@ A single page app consisting of a calculator and a section for random scientific
 - Frameworks: React
 - Technologies used: 
 
-[Live Demo Here]()
+[Live Demo Here](https://ekenecf.github.io/math-magician/)
 
 ## Getting started
 - To get a local copy up and running follow these simple example steps.
@@ -23,7 +23,7 @@ A single page app consisting of a calculator and a section for random scientific
 - git clone https://github.com/ekenecf/math-magician.git
 
 # Usage
-- Run npm start
+-  Usage: cd <https://github.com/ekenecf/math-magician.git>, npm install, npm start
 
 ## Authors
 
@@ -31,12 +31,13 @@ A single page app consisting of a calculator and a section for random scientific
 
 - GitHub: [Ekene Nwachukwu](https://github.com/ekenecf)
 - LinkedIn: [Ekene Nwachukwu](https://www.linkedin.com/in/ekene-nwachukwu-1b9024153/)
+- Twitter [Ekene Nwachukwu](https://www.twitter.com/ekene070)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/ekenecf/math-magician/issues).
 
 ## Show your support
 
@@ -50,4 +51,4 @@ Give a ⭐ if you like this project!
 
 ## 📝 License
 
-This project is **[MIT](./LICENSE.md)** licensed.
+This project is **[MIT](./License)** licensed.![](https://img.shields.io/badge/Microverse-blueviolet)
