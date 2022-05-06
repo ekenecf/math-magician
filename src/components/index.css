@@ -14,8 +14,10 @@ body {
 
 .displayResult {
   background-color: #858693;
-  width: 100%;
+  width: 96%;
   height: 80px;
+  text-align: end;
+  padding-right: 4%;
 }
 
 .operationsDiv {
