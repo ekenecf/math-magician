@@ -1,0 +1,47 @@
+.navigation {
+  display: flex;
+  flex-direction: column;
+  padding-inline: 10%;
+}
+
+h2 {
+  text-align: center;
+  color: cadetblue;
+}
+
+.nav-links {
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav-links a {
+  font-size: 25px;
+  text-decoration: none;
+  color: brown;
+}
+
+@media screen and (min-width: 768px) {
+  #root {
+    padding-inline: 11%;
+    padding-top: 10%;
+  }
+
+  .navigation {
+    flex-direction: row;
+    justify-content: space-between;
+    padding-inline: 0;
+    align-items: center;
+  }
+
+  .navigation h2 {
+    font-size: 40px;
+  }
+
+  .nav-links {
+    width: 50%;
+  }
+
+  .nav-links a {
+    font-size: 30px;
+  }
+}
