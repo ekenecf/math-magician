@@ -9,7 +9,11 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  margin-top: 20%;
+  margin-top: 5%;
+}
+
+.mainContainer p {
+  font-size: 30px;
 }
 
 .displayResult {
@@ -59,5 +63,9 @@ body {
 
   .mainContainer {
     margin: 0;
+  }
+
+  .mainContainer p {
+    font-size: 35px;
   }
 }

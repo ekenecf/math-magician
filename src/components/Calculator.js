@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import './index.css';
 import calculate from '../logic/calculate';
+import Addedtocalculator from './Addedtocalculator';
 
 const Calculator = () => {
   const [maths, setMaths] = useState({
@@ -22,6 +23,7 @@ const Calculator = () => {
 
   return (
     <div className="mainContainer">
+      <Addedtocalculator />
       <div className="displayResult">
         <h1>
           {total}

@@ -1,0 +1,22 @@
+.homeparagraph {
+  padding: 5%;
+}
+
+.homeparagraph p {
+  font-size: 20px;
+}
+
+@media screen and (min-width: 768px) {
+  .homeparagraph {
+    padding: 0;
+  }
+
+  .homeparagraph h2 {
+    text-align: start;
+    font-size: 30px;
+  }
+
+  .homeparagraph p {
+    font-size: 30px;
+  }
+}
