@@ -11,7 +11,7 @@ A single page app consisting of a calculator and a section for random scientific
 - Frameworks: React
 - Technologies used: 
 
-[Live Demo Here](ekenemathmagician.netlify.app)
+[Live Demo Here](https://ekenemathmagician.netlify.app)
 
 ## Getting started
 - To get a local copy up and running follow these simple example steps.
@@ -23,7 +23,7 @@ A single page app consisting of a calculator and a section for random scientific
 - git clone https://github.com/ekenecf/math-magician.git
 
 # Usage
--  Usage: cd <https://github.com/ekenecf/math-magician.git>, npm install, npm start
+-  Usage: cd <https://github.com/ekenecf/math-magician.git>, npm install, npm start.
 
 ## Authors
 
